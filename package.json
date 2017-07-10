@@ -1,0 +1,8 @@
+{
+  "name": "BitQueryForced",
+  "description": "A network visualization component for BitQuery VA-App: overview. Creates an interactive network visualization that allows to overview, sort, zoom, filter and search through the data. Additional components such as legends, tooltip and search provide detailed information on chosen subsets or single data nodes.",
+  "author": "Jim Vallandingham, Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>, Lukas Borke <lukas@borke.net>",
+  "license": "Apache License 2.0",
+  "version": "0.7.0",
+  "main": "BitQueryForced.js"
+}
